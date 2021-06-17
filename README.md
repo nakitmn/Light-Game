@@ -12,3 +12,5 @@ There are 4 light behaviours in the game:
 4. Outside mode - random light becomes turned on for 30 game minutes then it turns off.
 
 There is also a time in the game and a slider for changing the speed of the time.
+
+Gameplay video: https://youtu.be/6KvEXDtkp4w
