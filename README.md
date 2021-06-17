@@ -1,5 +1,5 @@
 # Light-Game
-🎮💡 Game
+![DesertMap 2](https://user-images.githubusercontent.com/67438147/122385800-e2e95d80-cf75-11eb-8f83-2bae4e80ac90.png)
 # Gameplay video: https://youtu.be/6KvEXDtkp4w
 
 My first own game.
