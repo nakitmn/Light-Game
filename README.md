@@ -1,6 +1,5 @@
 # Light-Game
 🎮💡 Game
-![Gameplay](https://youtu.be/6KvEXDtkp4w)
 # Gameplay video: https://youtu.be/6KvEXDtkp4w
 
 My first own game.
