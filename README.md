@@ -1,5 +1,6 @@
 # Light-Game
 🎮💡 Game
+# Gameplay video: https://youtu.be/6KvEXDtkp4w
 
 My first own game.
 There is no sence and any mechanics. It's just a prototype of the light's behaviour.
@@ -13,4 +14,3 @@ There are 4 light behaviours in the game:
 
 There is also a time in the game and a slider for changing the speed of the time.
 
-Gameplay video: https://youtu.be/6KvEXDtkp4w
